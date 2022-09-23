@@ -1,0 +1,16 @@
+table,tr,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+button{
+    position: relative;
+    top: 10px;
+}
+.reset{
+    position: relative;
+    top: 20px;
+}
+*{
+    background-color: wheat;
+}
+
